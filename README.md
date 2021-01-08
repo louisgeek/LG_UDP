@@ -6,4 +6,4 @@ Java UDP Demo
 
 
 
-UDPClient & UDPServer
+UDPClient 和 UDPServer
